@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:title="Background" >
+        <menu>
+            <item
+                android:id="@+id/sm1"
+                android:title="Blue" />
+            <item
+                android:id="@+id/sm2"
+                android:title="Red" />
+            <item
+                android:id="@+id/sm3"
+                android:title="GREEN" />
+            <item
+                android:id="@+id/sm4"
+                android:title="Yellow" />
+
+        </menu>
+    </item>
+    <item android:title="Settings " />
+    <item android:title="LOGOUT" />
+
+
+
+</menu>
