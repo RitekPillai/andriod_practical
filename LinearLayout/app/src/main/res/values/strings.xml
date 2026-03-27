@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">LinearLayout</string>
+    <array name="FlowerList">
+        <item>lotus</item>
+        <item>hibiscus</item>
+        <item>mogra</item>
+        <item>rose</item>
+        <item>tulips</item>
+        <item>lily</item>
+        <item>Daisy</item>
+        <item>marigold</item>
+        <item>sunflower
+        </item>
+        <item>iris</item>
+    </array>
+</resources>
